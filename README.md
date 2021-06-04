@@ -12,6 +12,8 @@ Contains:
 
 1. Clone the repo
 
-2. Run npm install
+2. Run 'npm install'
 
-3. You can then run 'npm start' to start a developoment server with live reloading
+3. You can then run 'npm run start' to start a developoment server with live reloading
+
+4. To serve files using node and expres, you can run 'npm run server'
